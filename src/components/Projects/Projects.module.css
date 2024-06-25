@@ -1,0 +1,57 @@
+.title{
+    color:var(--color-text);
+    font-size:40px;
+    font-weight:900;
+    letter-spacing:1.75px;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+.container{
+    color:var(--color-text);
+    margin-top:79px;
+    margin-right:10%;
+}
+
+.projects {
+    background-color: #2b031f;
+    height:100px;
+    margin-top: 10px;
+     margin-left:80px ;
+    margin-right:1px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+    border-radius: 5px;
+
+}
+
+
+
+.pro{
+    background-color: #2b031f;
+    height:100px;
+    margin-top: 10px;
+     margin-left:80px ;
+    margin-right:1px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+    border-radius: 5px;
+
+}
+
+
+.jects{
+    background-color: #2b031f;
+    height:100px;
+    margin-top: 10px;
+     margin-left:80px ;
+    margin-right:1px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 0 solid #e5e7eb;
+    border-radius: 5px;
+}
+
+
